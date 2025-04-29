@@ -88,4 +88,4 @@ file: lib/screen/camerascreen.dart
     - Add detection for stream disconnections or expiration.
     - Display appropriate messages such as "Stream unavailable" if a connection issue occurs.
 
- This approach would allow the app to scale to monitor multiple cameras securely, while preserving user privacy and allowing for the secure storage of recorded footage if needed.
+ This approach would allow the app to scale to monitor multiple cameras securely, while preserving user privacy and allowing for the secure storage of recorded footage if needed.# lampsyhealthapp
