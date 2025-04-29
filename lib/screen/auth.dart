@@ -30,10 +30,10 @@ class AuthScreen extends StatefulWidget {
 
       try{
         if(_isLogin) {
-        final userCredentials = await _firebase.signInWithEmailAndPassword(
+        await _firebase.signInWithEmailAndPassword(
           email: _enteredEmail, password: _enteredPassword);
       } else {
-          final userCredentials = await _firebase.createUserWithEmailAndPassword(
+          await _firebase.createUserWithEmailAndPassword(
           email: _enteredEmail, password: _enteredPassword);
         } 
         } on FirebaseAuthException catch (e) {
