@@ -15,7 +15,7 @@ This project simulates the core functionalities of epilepsy monitoring devices
 
 **Setup Instructions:**
 1. **Clone the repository:** 
-   git clone https://github.com/DeftoLabs/lampsyhealth.git
+   git clone https://github.com/DeftoLabs/lampsyhealthapp
 
 2. **Install dependencies:** flutter pub get
 
@@ -29,9 +29,14 @@ This project simulates the core functionalities of epilepsy monitoring devices
     **Email: test@gmail.com**
     **Password: 123456**
 
+
+
 📲 Alpha Version (Android & iOS)
 
-Android: . Request to be added to the testing group via email.
+Android:
+https://play.google.com/apps/internaltest/4701689669883986335
+Request to be added to the testing group via email.
+
 iOS: Request to be added to the testing group via email.
 
 For any questions, feel free to contact me at: daniel_defaria@yahoo.es.
@@ -88,4 +93,4 @@ file: lib/screen/camerascreen.dart
     - Add detection for stream disconnections or expiration.
     - Display appropriate messages such as "Stream unavailable" if a connection issue occurs.
 
- This approach would allow the app to scale to monitor multiple cameras securely, while preserving user privacy and allowing for the secure storage of recorded footage if needed.# lampsyhealthapp
+ This approach would allow the app to scale to monitor multiple cameras securely, while preserving user privacy and allowing for the secure storage of recorded footage if needed.
