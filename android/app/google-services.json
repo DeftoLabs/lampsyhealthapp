@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:266863601578:android:50a656f2a47d35b2bb2dd3",
+        "android_client_info": {
+          "package_name": "com.danieldefaria.lampsyhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFfpGV3FMPSLhHPOEeG0ZiGEVu0weLUjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:266863601578:android:fa0b41ab0f4369acbb2dd3",
         "android_client_info": {
           "package_name": "com.example.lampsyhealth"
